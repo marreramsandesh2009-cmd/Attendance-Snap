@@ -1,0 +1,1 @@
+"""Attendance-Snap backend package."""
